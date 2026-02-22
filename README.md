@@ -95,9 +95,8 @@ MySQL | MongoDB | AWS
 
 ## 🤝 Let's Connect!
 
-📧 jiyanshee.jain01@gmail.com  
-🔗 LinkedIn  
-💻 GitHub  
+📧 Email: [jiyanshee.jain01@gmail.com](mailto:jiyanshee.jain01@gmail.com)  
+🔗 LinkedIn: [Jiyanshee Jain](www.linkedin.com/in/jiyanshee-jain)    
 
 ---
 
